@@ -70,7 +70,7 @@
   - 📖 [Read our full journey here](https://blog.pointblank.club/from-vision-to-victory-team-lanlords-sih-journey-2/)
 
 > _Selected among 25,000+ teams. Delivered a winning solution after 36 hours of non-stop development._
-
+ ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### 📊 Stats :
 ⭐ 2★ Coder on [CodeChef](https://www.codechef.com/users/tan_18) (Max Rating: 1228)

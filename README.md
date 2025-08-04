@@ -77,10 +77,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="100"/>
-<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="100"/>
-<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="100"/>
-<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" width="100"/>
+[![An image of @taneeshamadhu18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taneeshamadhu18)](https://holopin.io/@taneeshamadhu18)
 
 
 ### 🌐 Social:
